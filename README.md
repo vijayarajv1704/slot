@@ -112,4 +112,5 @@ Execute the program
 ```
 
 # OUPUT
-![time table](https://user-images.githubusercontent.com/115523484/234336208-7c6f6b34-8ad5-4f47-827e-b28c83b824f5.png)
+![WhatsApp Image 2023-06-05 at 22 50 33](https://github.com/vijayarajv1704/slot/assets/121303741/e6d0e93a-a401-4f34-8352-2761a028aba9)
+
