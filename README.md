@@ -27,7 +27,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Sudharsanam.R.K(22003073)</b></caption>
+<caption><b>SLOT TIME TABLE - vijayaraj v(22001903)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -112,5 +112,8 @@ Execute the program
 ```
 
 # OUPUT
-![WhatsApp Image 2023-06-05 at 22 50 33](https://github.com/vijayarajv1704/slot/assets/121303741/e6d0e93a-a401-4f34-8352-2761a028aba9)
+![image](https://github.com/vijayarajv1704/slot/assets/121303741/2b18466e-951d-46f3-8f36-3c620df8f254)
 
+RESULT
+
+The program for creating slot timetable using basic HTML tags is executed successfully.
