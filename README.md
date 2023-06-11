@@ -114,6 +114,8 @@ Execute the program
 # OUPUT
 ![image](https://github.com/vijayarajv1704/slot/assets/121303741/2b18466e-951d-46f3-8f36-3c620df8f254)
 
+![image](https://github.com/vijayarajv1704/slot/assets/121303741/59510051-335f-4e9a-a8b7-914a444623c6)
+
 RESULT
 
 The program for creating slot timetable using basic HTML tags is executed successfully.
